@@ -19,4 +19,4 @@ steps to follow:
 4. run the script with admin 
 5. plug in the USB drive
 
-personal note: im working on a script for mac os right now. :]]
+personal note: im working on a script for mac os right now. This will only work for windows os. :]]
